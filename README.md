@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I lived in South Korea for 3 years! South Korea is like my second home!**
 
-<h3 align="left">Connect with me:</h3>
+// <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
