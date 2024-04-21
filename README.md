@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on client project - creating a medical app for a startup company! I am also working on a solo project - combining my love for photography, music, and writing!
-- 🌱 I’m currently learning advanced css and web design!
+- 🔭 I’m currently working on a client project - creating a medical app for a startup company! I am also working on a solo project - combining my love for photography, music, and writing!
+- 🌱 I’m currently learning web design and advanced css!
+- - ⚡ Fun fact: I lived in South Korea for 3 years!
 
 <!--
 **jessiyang1996/jessiyang1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
