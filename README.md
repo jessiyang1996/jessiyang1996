@@ -2,7 +2,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessiyang1996" alt="jessiyang1996" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessiyang1996&" alt="jessiyang1996" /></p>
 
-- 🔭 I’m currently working on **an awesome client project: creating a medical app for a startup company! I am also working on a solo project - combining my love for photography, music, and writing!**
+- 🔭 I’m currently working on **an awesome client project: creating a medical app for a startup company! I am also working on making my own portfolio site. **
 
 - 🌱 I’m currently learning **JavaScript, React, Redux, Redux-Sagas, web design, and advanced css!**
 
